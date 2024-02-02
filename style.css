@@ -1,0 +1,130 @@
+#navbar{
+    background-color: darkblue;
+    align-items: center;
+    display: flex;
+    height: 50px;
+    width: auto;
+    margin: 0px;
+}
+
+#smallnav{
+    background-color: blue;
+    text-align: center;
+    font-size: larger;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+}
+
+#box1{
+   border: 4px solid green;
+   height: 30px;
+   width: 80%;
+   margin: 0 auto;
+   color: green;
+   text-align: center;
+   margin-top: 30px;
+   border-radius: 15px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: green;
+    padding-top: 5px;
+}
+
+#free{
+    margin-left: 10px ;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#box2{
+    background-color: rgba(248, 163, 6, 0.541);
+    height: auto;
+    width: 100%;
+    text-align: left;
+    color: rgb(131, 90, 2);
+    margin-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+#box3{
+    height: auto;
+    width: 100%;
+    text-align: left;
+    color: rgb(3, 82, 253);
+    background-color: rgb(79, 200, 248);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+#link1{
+    border-radius: 10px;
+    background-color: red;
+    border-color: red;
+    color: rgb(240, 255, 242);
+    text-align: center;
+    width: 80%;
+    height: 30px;
+    font-weight: bold;
+
+}
+#hell{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0;
+}
+
+#box4{
+    background-color: #adefd1ff;
+    height: auto;
+    width: 100%;
+    text-align: left;
+    color: #00203fff;
+    margin-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background-color: grey;
+    font-size: 20px;
+    text-align: center;
+}
+
+p{
+    text-align: left;
+    padding-left: 10px;
+}
+
+#follow{
+    margin: 0 auto;
+}
+
+#man{
+    height: 25px;
+    width: 80%;
+    margin: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 15%;
+}
